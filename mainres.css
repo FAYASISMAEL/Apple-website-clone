@@ -1,0 +1,149 @@
+@media (max-width: 1022px) {
+
+    /* Navbar Styles */
+ 
+     nav {
+         height: 6.5vh;
+     }
+ 
+     .navicon {
+         display: block;
+     }
+ 
+     .respnavbar {
+         display: block;
+     }
+ 
+     .responsivediv {
+         display: flex;
+         position: absolute;
+         top: 25%;
+         right: 3%;
+     }
+ 
+     .navlinks {
+         display: block;
+     }
+ 
+     .navlink {
+         display: none;
+     }
+ 
+     /* The info box below the Navbar */
+ 
+     .infobartext {
+         flex-direction: column;
+     }
+ 
+     /* Main page - 1 -> iPhone 14 Pro */
+ 
+     .mainpage1 {
+         background-image: url("https://www.apple.com/in/home/heroes/iphone-16-pro/images/hero_iphone16pro_avail__fnf0f9x70jiy_small_2x.jpg");
+         height: 515px;
+         background-position-y: center;
+         background-position-x: center;
+         background-size: 700px;
+     }
+ 
+     .mp1-text .mp1-title1 {
+         font-size: 30px;
+         margin-bottom: 5px;
+     }
+ 
+     .mp1-text .mp1-title2 {
+         font-size: 18px;
+         margin-top: 1px;
+     }
+     
+     .mainpagelink {
+         font-size: 16px;
+     }
+
+     .button01 .learn-more {
+        position: relative;
+        background-position: center;
+        bottom: -300px;
+        left: 380px;
+        cursor: pointer;
+    }
+
+    .button01 .buy{
+        position: relative;
+        bottom: -300px;
+        left: 380px;
+        cursor: pointer;
+    }
+ 
+     /* Main page - 2 -> iPhone 14 */
+ 
+     .mainpage2 {
+         background-image: url("https://www.apple.com/in/home/heroes/iphone-16/images/hero_iphone16_avail__euwzls69btea_small_2x.jpg");
+         height: 515px;
+         background-position-y: center;
+         background-position-x: center;
+         background-size: 800px;
+ 
+     }
+
+     .mp2-text .mp2-title1 {
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+
+    .mp2-text .mp2-title2 {
+        font-size: 18px;
+        margin-top: 1px;
+    }
+
+    .button02 .learn-more {
+       position: relative;
+       background-position: center;
+       bottom: -300px;
+       left: 380px;
+       cursor: pointer;
+   }
+
+   .button02 .buy{
+       position: relative;
+       bottom: -300px;
+       left: 380px;
+       cursor: pointer;
+   }
+ 
+     /* Main page - 3 -> Apple watch */
+ 
+     .mainpage3 {
+         background-image: url("https://www.apple.com/in/home/images/heroes/apple-watch-series-8/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_small.jpg");
+         height: 515px;
+     }
+ 
+     /* Main page - 4 -> grid items */
+ 
+     .grid-item {
+         flex-basis: 100%;
+         margin: 0px;
+     }
+ 
+     .promo1 {
+         background-image: url("https://www.apple.com/v/home/az/images/promos/iphone-tradein/iphone_tradein_promo__d5au3rkw5kuq_medium.jpg");
+         height: 490px;
+     }
+ 
+     .promo2 {
+         background-image: url("https://www.apple.com/v/home/az/images/promos/wwdc23-announce/promo_wwdc23__b68ptht3mro2_medium.jpg");
+     }
+ 
+     .promo3 {
+ 
+         height: 590px;
+     }
+ 
+     .promo4 {
+         background-image: url("https://www.apple.com/v/home/az/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_medium.jpg");
+         height: 500px;
+     }
+ 
+     .promo6 {
+         background-image: url("https://www.apple.com/in/home/promos/apple-watch-ultra/images/promo_apple_watch_ultra__gnsqulvdc4a6_small.jpg");
+     }
+ }
