@@ -970,11 +970,115 @@ a {
     object-fit: cover;
 }
 
+.grid-container .item3txt1 {
+    color: #ffffff;
+    position: absolute;
+    top: 3070px;
+    left: 350px;
+    font-size: 40px;
+    z-index: 2;
+}
+
+.grid-container .item3txt2 {
+    color: #fff;
+    position: absolute;
+    top: 3120px;
+    left: 390px;
+    font-size: 20px;
+    z-index: 2;
+}
+
+.grid-container .item3btn1 {
+    background-color: #2468e7;
+    border: none;
+    color: white;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    position: relative;
+    top: -530px;
+    left: 350px;
+    cursor: pointer;
+}
+
+.grid-container .item3btn2 {
+    background-color: #2468e7;
+    background: transparent;
+    border-color: #2468e7;
+    color:#2468e7;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    position: relative;
+    top: -530px;
+    left: 350px;
+    cursor: pointer;
+}
+
+/* item 4 */
+
 .grid-item4 {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
+
+.grid-container .img4 {
+    position: absolute;
+    top: 3050px;
+    left: 1260px;
+    z-index: 2;
+}
+
+.grid-container .item4txt1 {
+    color: #ffffff;
+    position: absolute;
+    top: 3180px;
+    left: 1320px;
+    font-size: 20px;
+    z-index: 2;
+}
+
+.grid-container .item4btn1 {
+    background-color: #2468e7;
+    border: none;
+    color: white;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    position: relative;
+    top: -470px;
+    left: 350px;
+    cursor: pointer;
+}
+
+.grid-container .item4btn2 {
+    background-color: #2468e7;
+    background: transparent;
+    border-color: #2468e7;
+    color:#2468e7;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    position: relative;
+    top: -470px;
+    left: 350px;
+    cursor: pointer;
+}
+
+/* item 5 */
 
 .grid-item5 {
     width: 100%;
@@ -982,8 +1086,109 @@ a {
     object-fit: cover;
 }
 
+.grid-container .img5 {
+    position: absolute;
+    top: 3750px;
+    left: 380px;
+    z-index: 2;
+}
+
+.grid-container .item5txt1 {
+    color: #000000;
+    position: absolute;
+    top: 3800px;
+    left: 306px;
+    font-size: 20px;
+    z-index: 2;
+}
+
+.grid-container .item5txt2 {
+    color: #000000;
+    position: absolute;
+    top: 3825px;
+    left: 335px;
+    font-size: 20px;
+    z-index: 2;
+}
+
+.grid-container .item5btn1{
+    background-color: #2468e7;
+    border: none;
+    color: white;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    position: relative;
+    top: -590px;
+    left: 360px;
+    cursor: pointer;
+}
+
+/* item 6 */
+
 .grid-item6 {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.grid-container .img6 {
+    position: absolute;
+    top: 3750px;
+    left: 1370px;
+    z-index: 2;
+}
+
+.grid-container .item6txt1 {
+    color: #000000;
+    position: absolute;
+    top: 3800px;
+    left: 1290px;
+    font-size: 20px;
+    z-index: 2;
+}
+
+.grid-container .item6txt2 {
+    color: #000000;
+    position: absolute;
+    top: 3825px;
+    left: 1330px;
+    font-size: 20px;
+    z-index: 2;
+}
+
+.grid-container .item6btn1 {
+    background-color: #2468e7;
+    border: none;
+    color: white;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    position: relative;
+    top: -590px;
+    left: 325px;
+    cursor: pointer;
+}
+
+.grid-container .item6btn2 {
+    background-color: #2468e7;
+    background: transparent;
+    border-color: #2468e7;
+    color:#2468e7;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    position: relative;
+    top: -590px;
+    left: 325px;
+    cursor: pointer;
 }
